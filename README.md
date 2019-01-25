@@ -1,4 +1,4 @@
-# Ethereum-Ticketing-Dapp
-A decentralized ticketing application built on Ethereum.
+# First Dapp
+This is an early attempt at a decentralized ticketing application built on Ethereum.
 
-Note: This is currently a work in progress and code will be updated and added here.
+
